@@ -107,7 +107,7 @@ nav:focus {
 
 .banner a:focus {
   outline: 3px solid yellow;
-
+}
 
 .ship {
   padding: 2rem;
